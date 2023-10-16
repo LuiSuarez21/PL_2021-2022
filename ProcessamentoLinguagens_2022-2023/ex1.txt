@@ -1,0 +1,623 @@
+
+PT = cantor
+EN-GB = singer
+DE = Sänger
+
+PT = piano
+EN-GB = piano
+DE = Klavier
+
+PT = concerto
+EN-GB = concert
+DE = Konzert
+
+PT = banda
+EN-GB = band
+DE = Bande
+
+PT = dançarino
+EN-GB = dancer
+DE = Tänzer
+
+PT = harmonia
+EN-GB = harmony
+DE = Harmonie
+
+PT = flauta
+EN-GB = flute
+DE = Flöte
+
+PT = notas
+EN-GB = notes
+DE = Noten
+
+PT = canção
+EN-GB = song
+DE = Lied
+
+PT = dança
+EN-GB = dance
+DE = Tanz
+
+PT = solo
+EN-GB = solo
+DE = Solo
+
+PT = coro
+EN-GB = choir
+DE = Chor
+
+PT = orquestra
+EN-GB = orchestra
+DE = Orchester
+
+PT = ópera
+EN-GB = opera
+DE = Oper
+
+PT = produtor musical
+EN-GB = musical producer
+DE = Musik-Produzent
+
+PT = maestro
+EN-GB = maestro
+DE = Maestro
+
+PT = cifra
+EN-GB = cipher
+DE = Chiffre
+
+PT = violino
+EN-GB = violin
+DE = Violine
+
+PT = saxofone
+EN-GB = saxophone
+DE = Saxophon
+
+PT = tambor
+EN-GB = drum
+DE = Trommel
+
+PT = xilofone
+EN-GB = xylophone
+DE = Xylophon
+
+EN = house
+ES = casa
++genero = Feminino
+PT = casa
++genero = Feminino
++definicao = edifício próprio para habitação
+
+PT = escritório
++genero = Masculino
++definicao = compartimento onde se esreve e onde se realizam também o mais variado tipo de trabalhos
+EN = office
+ES = despacho
++genero = Masculino
+
+
+PT = cozinha
++genero = Feminino
++definicao = compartimento da casa onde se prepara a comida
+EN = kitchen
+ES = cocina
++genero = Feminino
+
+PT = lavandaria
++genero = Feminino
++definicao = compartimento da casa onde se lava a roupa
+EN = laundry room
+ES = tintorería
++genero = Feminino
+
+PT = sala de estar
++genero = Feminino
++definicao = um dos principais compartimentos de uma casa, onde geralmente se recebem as visitas
+EN = living room
+ES = salón
++genero = Masculino
+
+
+PT = sótão
++genero = Masculino
++definicao = compartimento esconso na parte superior de uma casa
+EN = attic
+ES = ático
++genero = Masculino
+
+PT = quarto de banho
++genero = Masculino
++definicao = compartimento da casa usado para asseio e/ou higiene pessoal
+EN = bathroom
+ES = cuarto de baño
++genero = Masculino
+
+PT = telhado
++genero = Masculino
++definicao = cobertura superior e externa dos edifícios, feita geralmente de telhas
+EN = roof
+ES = tejado
++genero = Masculino
+
+PT = jardim
++genero = Masculino
++definicao = terreno onde se cultivam plantas para recreio, estudo ou ornamentação
+EN = garden
+ES = jardín
++genero = Masculino
+
+PT = corredor
++genero = Masculino
++definicao = passagem estreita e comprida no interior de uma casa
+EN = corridor
+ES = pasillo
++genero = Masculino
+
+PT = escadas
++genero = Feminino
++definicao = série de degraus para subir e descer
+EN = stairs
+ES = escaleras
++genero = Feminino
+
+PT = lareira
++genero = Feminino
++definicao = laje em que se acende o fogo
+EN = fireplace
+ES = chimenea
++genero = Feminino
+
+PT = janela
++genero = Feminino
++definicao = abertura na parede de um edifício para entrada do ar e da luz
+EN = window
+ES = ventana
++genero = Feminino
+
+PT = persiana
++genero = Feminino
++definicao = caixilho de tabuinhas móveis, que se coloca por fora das janelas para resguardar o interior das casas
+EN = venetian blind
+ES = persiana
++genero = Feminino
+
+PT = mobília
++genero = Feminino
++definicao = objectos móveis para uso ou adorno interior de uma casa
+EN = furniture
+ES = mobiliario
++genero = Masculino
+
+PT = sofá
++genero = Masculino
++definicao = canapé estofado
+EN = couch
+ES = sofá
++genero = Masculino
+
+PT = candeeiro de cabeceira
++genero = Masculino
++definicao = aparelho portátil ou suspenso, destinado a dar luz
+EN = bedside lamp
+
+PT = tapete
++genero = Masculino
++definicao = peça de estofo para cobrir sobrados, escadas, etc
+EN = carpet
+ES = alfombra
++genero = Feminino
+
+PT = guarda-fatos
++genero = Masculino
++definicao = espécie de armário com cabides, para guardar fatos ou vestidos
+EN = wardrobe
+ES = armario
++genero = Masculino
+
+PT = frigorífico
++genero = Masculino
++definicao = aparelho para conservar frescas e, em bom estado, substâncias alimentícias
+EN = fridge
+ES = frigorífico/refrigerador
++genero = Masculino
+
+PT = forno
++genero = Masculino
++definicao = parte do fogão usada para fazer assados
+EN = oven
+ES = horno
++genero = Masculino
+
+PT = microondas
++genero = Masculino
++definicao = aparelho usado para aquecer/preparar refeições
++observacoes = Definição feita totalmente por mim (sem recorrer a um dicionário)
+EN = microwave oven
+ES = microondas
++genero = Masculino
+
+PT = exaustor
++genero = Masculino
++definicao = aparelho usado para eliminar quaisqueres cheiros alimentícios, provenientes de alimentos que possam estar a ser preparados no fogão em baixo
++observacoes = Definição feita totalmente por mim (sem recorrer a um dicionário)
+EN = suction fan
+
+PT = aspirador
++genero = Masculino
++definicao = aparelho usado para aspirar qualquer tipo de sujidade
+EN = hoover
+ES = aspiradora
++genero = Feminino
+
+PT = cama
++genero = Feminino
++definicao = móvel ou lugar sobre o qual a gente pode deitar-se
+EN = bed
+ES = cama
++genero = Feminino
+
+PT = máquina de lavar roupa
++genero = Feminino
++definicao = aparelho utilizado para a lavagem automática de roupa
++observacoes = Definição feita totalmente por mim (sem recorrer a um dicionário)
+EN = Washing Machine
+ES = Lavadora
++genero = Feminino
+
+PT = máquina de lavar louça
++genero = Feminino
++definicao = aparelho utilizado para a lavagem automática de qualquer tipo de louça
++observacoes = Definição feita totalmente por mim (sem recorrer a um dicionário)
+EN = Dishwasher
+ES = lavavajillas
++genero = Feminino
+
+PT = computador
++genero = Masculino
+EN = computer
+ES = ordenador
++genero = Masculino
+
+PT = impressora
++genero = Feminino
+EN = printer
+ES = impresora
++genero = Feminino
+
+definicao = Peça que regula o movimento de um maquinismo ou a direcção de um veículo.
+FR = Volant
++genero = Masculino
++numero = Singular
++exemplo = Un as du volant.
+PT = Volante
++genero = Masculino
++numero = Singular
++exemplo = Tenho as mãos em cima do volante.
+DE = Lenkrad
++genero = Neutro
++numero = Singular
+EN = Steering wheel
+
+definicao = Peça na qual se mete um pistão do motor.
+PT = Cilindro
++genero = Masculino
++numero = Singular
++exemplo = Tenho um problema no cilindro.
+FR = Cylindre
++genero = Masculino
++numero = Singular
+DE = Zylinder
++genero = Masculino
++numero = Singular
+EN = Cylinder
+
+definicao = Protecção fixa, formada por uma chapa de vidro ou plástico, colocada na parte dianteira do automóvel.
+FR = Pare-brise
++genero = Masculino
++numero = Singular
+PT = Pára-brisas
++genero = Masculino
++numero = Singular
++exemplo = O pára-brisas está estalado.
+DE = Windschutzscheibe
++genero = Feminino
++numero = Singular
+EN = Windshield
+
+definicao = Mecanismo ou dispositivo que permite ligar ou desligar o motor da caixa de velocidades.
+FR = Embrayage
++genero = Masculino
++numero = Singular
++exemplo = Pédale d'embrayage.
+PT = Embraiagem
++genero = Feminino
++numero = Singular
++exemplo = Meter a embraiagem a fundo.
+DE = Kupplung
++genero = Feminino
++numero = Singular
+EN = Clutch
+
+definicao = Dispositivo nos veículos de tracção mecânica para a mudança de velocidade.
+FR = Boîte de vitesses
++genero = Feminino
++numero = Singular
+PT = Caixa-de-velocidades
++genero = Feminino
++numero = Singular
++exemplo = É preciso saber trabalhar com a caixa de velocidades para conduzir.
+DE = Getriebe
++genero = Neutro
++numero = Singular
+EN = Gearbox
+
+definicao = Aro de borracha, com ou sem câmara-de-ar, que reveste as rodas de certos veículos.
+FR = Pneu
++genero = Masculino
++numero = Singular
++exemplo = J’ai besoin d’un nouveau pneu.
+PT = Pneu
++genero = Masculino
++numero = Singular
++exemplo = Tenho que mudar o pneu.
+DE = Reifen
++genero = Masculino
++numero = Singular
+EN = Shock
+
+definicao = Aparelho para reduzir o efeito dos choques e para abrandar as vibrações das máquinas.
+FR = Amortisseur
++genero = Masculino
++numero = Singular
++exemplo = Changer les amortisseurs.
+PT = Amortecedor
++genero = Masculino
++numero = Singular
++exemplo = Sem o amortecedor pudemos ficar piores quando sofremos um acidente.
+DE = Stossdämpfer
++genero = Masculino
++numero = Singular
+EN = Absorver
+
+definicao = Mecanismo que permite moderar ou suster o movimento de um veículo.
+FR = Frein
++genero = Masculino
++numero = Singular
+PT = Travão
++genero = Masculino
++numero = Singular
++exemplo = O travão funciona bem.
+DE = Bremse
++genero = Feminino
++numero = Singular
+EN = Brake
+
+definicao = Máquina que transforma energia mecânica em energia elétrica.
+PT = Alternador
++genero = Masculino
++numero = Singular
+FR = Alternateur
++genero = Masculino
++numero = Singular
+DE = Generator
+EN = Alternator
+
+definicao = Objecto em que os fumadores deitam a cinza do tabaco.
+PT = Cinzeiro
++genero = Masculino
++numero = Singular
++exemplo = Põe a cinza no cinzeiro.
+FR = Cendrier
++genero = Masculino
++numero = Singular
+DE = Aschenbecher
++genero = Masculino
++numero = Singular
+EN = Ashtray
+
+definicao = Barra de protecção do automóvel.
+PT = Pára-choques
++genero = Masculino
++numero = Neutro
+FR = Pare-chocs
++genero = Masculino
++numero = Neutro
+DE = Stossstange
++genero = Feminino
++numero = Singular
+EN = Bumper
+
+definicao = Objecto ou sítio em que alguém se senta.
+PT = Assento
++genero = Masculino
++numero = Singular
+FR = Siège
++genero = Masculino
++numero = Singular
+DE = Sitz
++genero = Masculino
++numero = Singular
+EN = Seat
++numero = Singular
+
+PT = Bateria
++genero = Feminino
++numero = Singular
+FR = Batterie
++genero = Feminino
++numero = Singular
+EN = Battery
++numero = Singular
+DE = Batterie
++genero = Feminino
++numero = Singular
+
+definicao = Aparelho que imprime movimento a uma máquina
+PT = Motor
++genero = Masculino
++numero = Singular
++exemplo = O motor está a aquecer demasiado.
+FR = Moteur
++genero = Masculino
++numero = Singular
++exemplo = Le moteur chauffe.
+DE = Motor
++genero = Masculino
++numero = Singular
+EN = Engine
+
+definicao = Aparelho que nos automóveis produz som estridente.
+PT = Buzina
++genero = Feminino
++numero = Singular
+FR = Klaxon
++genero = Masculino
++numero = Singular
+DE = Hupe
++genero = Feminino
++numero = Singular
+EN = Horn
+
+definicao = Peça que constitui, em conjunto com o pneu, a roda de um veículo.
+PT = Jante
++genero = Feminino
++numero = Singular
+FR = Jante
++genero = Feminino
++numero = Singular
+DE = Felge
++genero = Feminino
++numero = Singular
+EN = Wheel rim
+
+definicao = Aparelho para medir a velocidade em veículos
+PT = Velocímetro
++genero = Masculino
++numero = Singular
+FR = Compteur de vitesse
++genero = Masculino
++numero = Singular
+DE = Tachometer
++genero = Masculino
++numero = Neutro
+EN = Speedometer
+
+definicao = Abertura para dar entrada ou saída
+PT = Porta
++genero = Feminino
++numero = Singular
++exemplo = A porta não esta bem fechada.
+FR = Porte
++genero = Feminino
++numero = Singular
++exemplo = La porte n'est pas fermée.
+DE = Tür
++genero = Feminino
++numero = Singular
+EN = Door
+
+definicao = Produto extraído do petróleo bruto por destilação
+PT = Gasolina
++genero = Feminino
++numero = Singular
++exemplo = Estou a ficar sem gasolina.
+FR = Essence
++genero = Feminino
++numero = Singular
++exemplo = Je n’ai plus d’essence.
+DE = Benzin
++genero = Neutro
+EN = Gasoline
+
+definicao = Dispositivo elétrico que se encaixa à cabeça do cilindro num motor de combustão interna e inflama a mistura comprimida de ar/combustível por meio de uma centelha elétrica.
+PT = Vela
++genero = Feminino
++numero = Singular
+FR = Bougie
++genero = Feminino
++numero = Singular
+EN = Spark plug
+
+definicao = Aparelho destinado a provocar o resfriamento de certos motores.
+PT = Radiador
++genero = Masculino
++numero = Singular
+FR = Radiateur
++genero = Masculino
++numero = Singular
+DE = Kühler
++genero = Masculino
++numero = Singular
+EN = Radiator
+
+definicao = Lâmpada potente de automóvel e de outros veículos.
+PT = Farol
++genero = Masculino
++numero = Singular
+FR = Phare
++genero = Masculino
++numero = Singular
++exemplo = Un appel de phares.
+DE = Scheinwerfer
++genero = Masculino
++numero = Singular
+EN = Headlight
+
+definicao = Aparelho destinado a uma regulação rápida da velocidade e potência do motor.
+PT = Acelerador
++genero = Masculino
++numero = Singular
++exemplo = O pedal do acelerador está do lado direito.
+FR = Accélérateur
++genero = Masculino
++numero = Singular
+DE = Gashebel
++genero = Masculino
+EN = Accelerator
++exemplo = To step on the accelerator.
+
+definicao = Chapa de vidro ou de cristal que reflecte os objectos
+PT = Espelho retrovisor
++genero = Masculino
++numero = Singular
+FR = Miroir
++genero = Masculino
++numero = Singular
+DE = Rückspiegel
++genero = Masculino
++numero = Singular
+EN = Rear-view mirror
+
+definicao = Peça da carroçaria d'um automóvel que protège o motor.
+PT = Capô
++genero = Masculino
++numero = Singular
+FR = Capot
++genero = Masculino
++numero = Singular
++exemplo = Ouvrir, fermer le capot.
+DE = Motorhaube
++genero = Feminino
++numero = Singular
+EN = Bonnet
+
+definicao = Código de registo de veículo.
+PT = Matricula
++genero = Feminino
++numero = Singular
++exemplo = Um automóvel com matrícula estrangeira.
+EN = Registration number
+DE = Immatrikulation
++genero = Feminino
++numero = Singular
+
+definicao = Compartimento situado na parte traseira dos automóveis
+PT = Mala do carro
++genero = Feminino
++numero = Singular
+EN = Luggage
+DE = Kofferraum
++genero = Masculino
++numero = Singular
